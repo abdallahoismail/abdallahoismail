@@ -16,13 +16,7 @@
 - <b> Deep Learning </b>
   - [Tensorflow and PyTorch](https://github.com/abdallahoismail/Deep-Learning)
 
-- <b> Deep Learning in R </b>
-
-- <b> Tableau </b>
-  
-- <b> SQL </b>
-
-- <b> SAS </b>
+- <b>
 
 <h2> 🤳 Connect with me:</h2>
 https://www.linkedin.com/in/abdallahismail/
