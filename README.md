@@ -5,9 +5,9 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b> Data Preprocessing in Pyhton </b>
-  - [Data Preprocessing Pipeline](https://github.com/abdallahoismail/Preprocessing)
-  - [Balancing imbalanced Datasets](https://github.com/abdallahoismail/Preprocessing)
-  - [Dimensionality Reduction using PCA](https://github.com/abdallahoismail/Preprocessing)
+  - [Data Preprocessing Pipeline](https://github.com/abdallahoismail/Data-Preprocessing)
+  - [Balancing imbalanced Datasets](https://github.com/abdallahoismail/Data-Preprocessing)
+  - [Dimensionality Reduction using PCA](https://github.com/abdallahoismail/Data-Preprocessing)
     
 - <b> Classification in Pyhton </b>
   - [Support Vector Classifier in Python - Heart Failure Prediction](https://github.com/abdallahoismail/Classification)
