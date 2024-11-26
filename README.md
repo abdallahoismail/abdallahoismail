@@ -5,7 +5,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b> Data Preprocessing in Pyhton </b>
-  - [Data Preprocessing Pipeline](https://github.com/abdallahoismail/Data-Preprocessing)
+  - [Data Preprocessing Pipeline](https://github.com/abdallahoismail/Data-Preprocessing/blob/main/preprocessing%20pipeline.ipynb)
   - [Balancing imbalanced Datasets](https://github.com/abdallahoismail/Data-Preprocessing/blob/main/handling%20imbalaced%20data%20SMOTE.ipynb)
   - [Dimensionality Reduction using PCA](https://github.com/abdallahoismail/Data-Preprocessing)
     
