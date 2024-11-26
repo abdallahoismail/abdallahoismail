@@ -8,6 +8,7 @@
   - [Data Preprocessing Pipeline](https://github.com/abdallahoismail/Data-Preprocessing/blob/main/preprocessing%20pipeline.ipynb)
   - [Balancing imbalanced Datasets](https://github.com/abdallahoismail/Data-Preprocessing/blob/main/handling%20imbalaced%20data%20SMOTE.ipynb)
   - [Dimensionality Reduction using PCA](https://github.com/abdallahoismail/Data-Preprocessing/blob/main/PCA.ipynb)
+  - [Feature Selection: Advanced Methods](https://github.com/abdallahoismail/Data-Preprocessing/blob/main/feature%20selection.ipynb)
     
 - <b> Classification in Pyhton </b>
   - [Classifiers in Python - Heart Failure Prediction](https://github.com/abdallahoismail/Classification/blob/main/Binary_classification_models.ipynb)
