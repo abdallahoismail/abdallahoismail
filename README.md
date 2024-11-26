@@ -13,8 +13,7 @@
   - [Classifiers in Python - Heart Failure Prediction](https://github.com/abdallahoismail/Classification/blob/main/Binary_classification_models.ipynb)
 
 - <b> Deep Learning </b>
-  - [Tensorflow - MNIST Dataset](https://github.com/abdallahoismail/Deep_Learning)
-  - [PyTorch](https://github.com/abdallahoismail/Deep_Learning)
+  - [Tensorflow and PyTorch](https://github.com/abdallahoismail/Deep-Learning)
 
 - <b> Deep Learning in R </b>
 
