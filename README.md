@@ -16,7 +16,7 @@
 - <b> Deep Learning </b>
   - [Tensorflow and PyTorch](https://github.com/abdallahoismail/Deep-Learning)
 
-- <b>
+- <b> [NLP - Sentiment Analysis](https://github.com/abdallahoismail/Deep-Learning)
 
 <h2> 🤳 Connect with me:</h2>
 https://www.linkedin.com/in/abdallahismail/
