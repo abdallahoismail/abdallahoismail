@@ -10,7 +10,7 @@
   - [Dimensionality Reduction using PCA](https://github.com/abdallahoismail/Data-Preprocessing)
     
 - <b> Classification in Pyhton </b>
-  - [Classifiers in Python - Heart Failure Prediction](https://github.com/abdallahoismail/Classification)
+  - [Classifiers in Python - Heart Failure Prediction](https://github.com/abdallahoismail/Classification/blob/main/Binary_classification_models.ipynb)
 
 - <b> Deep Learning </b>
   - [Tensorflow - MNIST Dataset](https://github.com/abdallahoismail/Deep_Learning)
