@@ -6,7 +6,7 @@
 
 - <b> Data Preprocessing in Pyhton </b>
   - [Data Preprocessing Pipeline](https://github.com/abdallahoismail/Data-Preprocessing)
-  - [Balancing imbalanced Datasets](https://github.com/abdallahoismail/Data-Preprocessing)
+  - [Balancing imbalanced Datasets](https://github.com/abdallahoismail/Data-Preprocessing/blob/main/handling%20imbalaced%20data%20SMOTE.ipynb)
   - [Dimensionality Reduction using PCA](https://github.com/abdallahoismail/Data-Preprocessing)
     
 - <b> Classification in Pyhton </b>
