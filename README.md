@@ -10,10 +10,7 @@
   - [Dimensionality Reduction using PCA](https://github.com/abdallahoismail/Data-Preprocessing)
     
 - <b> Classification in Pyhton </b>
-  - [Support Vector Classifier in Python - Heart Failure Prediction](https://github.com/abdallahoismail/Classification)
-  - [Support Vector Machine (SVM) in Python - Credit Dataset](https://github.com/abdallahoismail/Classification)
-  - [SVC Hyperparameter tuning in Python - Universal Bank Dataset](https://github.com/abdallahoismail/Classification)
-  - [Logit](https://github.com/abdallahoismail/Classification)
+  - [Classifiers in Python - Heart Failure Prediction](https://github.com/abdallahoismail/Classification)
 
 - <b> Deep Learning </b>
   - [Tensorflow - MNIST Dataset](https://github.com/abdallahoismail/Deep_Learning)
