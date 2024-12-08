@@ -17,6 +17,8 @@
   - [Tensorflow and PyTorch](https://github.com/abdallahoismail/Deep-Learning)
   - [NLP - Sentiment Analysis](https://github.com/abdallahoismail/Deep-Learning)
 
+- <b> Time Series Modeling </b>
+
 <h2> 🤳 Connect with me:</h2>
 https://www.linkedin.com/in/abdallahismail/
 
