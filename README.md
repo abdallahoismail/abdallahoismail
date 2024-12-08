@@ -18,6 +18,7 @@
   - [NLP - Sentiment Analysis](https://github.com/abdallahoismail/Deep-Learning)
 
 - <b> Time Series Modeling </b>
+  - [Time Series Forecasting Using Prophet](https://github.com/abdallahoismail/Time-Series-Modeling)
 
 <h2> 🤳 Connect with me:</h2>
 https://www.linkedin.com/in/abdallahismail/
