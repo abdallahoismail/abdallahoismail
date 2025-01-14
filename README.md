@@ -19,6 +19,8 @@
 
 - <b> Time Series Modeling </b>
   - [Time Series Forecasting Using Prophet](https://github.com/abdallahoismail/Time-Series-Modeling)
+  - [Sales Forecasting Using Prophet - Kaggle Competition](https://github.com/abdallahoismail/Time-Series-Modeling/blob/main/Store_sales_forecasting_kaggle_competition.ipynb)
+  - [Modeling Stock Volatility Using GARCH](https://github.com/abdallahoismail/Time-Series-Modeling/blob/main/GARCH_modeling_volatility.ipynb)
 
 <h2> 🤳 Connect with me:</h2>
 https://www.linkedin.com/in/abdallahismail/
